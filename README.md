@@ -4,4 +4,4 @@ I am Nataliya Malysheva
 - 🚀 Studying TypeScript
 - 📫 Contacts: email: nmalysheva99yandex.ru | Telegram: @nathalie2841 | [HabrCareer](https://career.habr.com/nathaliemalsh)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-blue)    
+![](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript) 
